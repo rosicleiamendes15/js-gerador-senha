@@ -3,7 +3,7 @@
 :root {
     --branco: rgb(255, 255, 255);
     --cor-de-fundo: #1c002e;
-    --fundo-senha: #00244D;
+    --fundo-senha: hsl(212, 100%, 15%);
     --fundo-texto: #004037;
     --borda: #120418;
     --roboto: 'Roboto', sans-serif;
